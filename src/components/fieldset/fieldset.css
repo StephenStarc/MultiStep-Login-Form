@@ -1,0 +1,27 @@
+.legend-text{
+    color: #6C25FF;
+    font-size: 12px;
+    
+}
+.form-fieldset{
+    border-radius: 5px;
+    padding: 2px 0 7px 15px;
+    margin: 9px 0;
+}
+input{
+    font-weight: 400;
+}
+.legend-input{
+    width: 100%;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.must{
+    color: red;
+}
+.legend-input:focus{
+    outline: none;
+    background: none;
+}
